@@ -42,7 +42,7 @@
 
 **Back to the first file**: 
 
-[README.md](/Users/HaleyH/Desktop/Challenge_2/README.md)
+[README.md](https://github.com/haleyheidenreich/Challenge_2/blob/master/README.md)
 
 ---
 
