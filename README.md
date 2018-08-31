@@ -33,11 +33,9 @@
 
 
 <!-- A link to this assignment -->
-[README.md](/Users/HaleyH/Desktop/Challenge_2/README.md)
+[ReadME.md](http://github.com/haleyheidenreich/Challenge_2/blob/master/README.md)
 
 <!-- A link to the other .md file -->
-[MD2.md](/Users/HaleyH/Desktop/Challenge_2/MD2.md)
-
 [MD2.md](https://github.com/haleyheidenreich/Challenge_2/blob/master/MD2.md)
 
 
