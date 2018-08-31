@@ -35,7 +35,7 @@
 
 * Listen to the Beach Boys 
 
-![Beach Boys](/Users/HaleyH/Desktop/Challenge_2/BeachBoysOnBeach.jpg)
+![Beach Boys](https://github.com/haleyheidenreich/Challenge_2/blob/master/BeachBoysOnBeach.jpg)
 
 ---
 
